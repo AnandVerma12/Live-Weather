@@ -156,5 +156,10 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 wikipedia==1.4.0
+Django
+requests
 gunicorn
+pillow
+
+
 
